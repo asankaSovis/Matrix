@@ -86,7 +86,7 @@ PFont font;                   // Font
 void settings() {
   size(1800, 1000); // Size - Change as needed
   font = loadFont("font.vlw"); // Loading the font
-  // NOTE: Refer to instructions on how to load fonts
+  // NOTE: Refer to README.md on how to load fonts
 
   column_size = width/COLUMN_COUNT; // Calculating column size from count
   row_size = column_size; // Row size set to same for convenience. This

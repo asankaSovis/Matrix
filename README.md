@@ -3,7 +3,25 @@
 
 The idea of this tutorial is to recreate the iconic "digital rain" visual effect from The Matrix franchise. This processing sketch renders vertical streams of green characters falling down a grid overlaying a dark background. Beyond a static video loop, this script functions as an interactive, real-time animation. It implements a custom "glitch" engine that randomly mutates the character set mid-stream, dynamic trail fading to simulate neon persistence, and user interactivity via mouse clicks and keyboard commands to control the simulation state.
 
-![Shader Art](./Matrix.gif)
+![Matrix](./Matrix.gif)
+
+## Note on Setup
+
+The code expects a third party font that resembles the original character set from the materix series. To provide the sketch with this required font, follow the given instructions.
+
+1. Download the `Matrix Code NFI Font` by `Norfok Incredible Font Design` in the website `fontspace.com` from [here](https://www.fontspace.com/matrix-code-nfi-font-f11467).
+2. Extract the folder and you will see a font file called `MatrixCodeNfi-YPPj.otf` inside.
+3. Double click and install this font to the system.
+4. Create a folder titled `data` in the root folder of this sketch.
+5. Open Processing application.
+6. Go to *Tools* -> *Create Font...*.
+7. Scroll through the list of fonts and select the font we just installed. (MatrixCodeNFI)
+8. Change the filename to `font.vlw`.
+9. Click on *OK*.
+10. A file called `font.vlw` will be created in the `data` directory. If it's created somewhere else, copy it to the `data` directory.
+11. Now you can run the script.
+
+> Special shout out to [Norfok Incredible Font Design](https://www.fontspace.com/norfok-incredible-font-design) for sharing the amazing [Matrix Code NFI Font](https://www.fontspace.com/matrix-code-nfi-font-f11467). Also checkout other fonts available in [fontspace.com](https://www.fontspace.com).
 
 Check the [Blog Post]()  that this repo is connected to.
 
