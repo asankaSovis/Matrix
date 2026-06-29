@@ -23,7 +23,7 @@ The code expects a third party font that resembles the original character set fr
 
 > Special shout out to [Norfok Incredible Font Design](https://www.fontspace.com/norfok-incredible-font-design) for sharing the amazing [Matrix Code NFI Font](https://www.fontspace.com/matrix-code-nfi-font-f11467). Also checkout other fonts available in [fontspace.com](https://www.fontspace.com).
 
-Check the [Blog Post]()  that this repo is connected to.
+Check the [Blog Post](https://blog.asankasovis.com/11-the-matrix-enter-into-the-matrix)  that this repo is connected to.
 
 ---
 
